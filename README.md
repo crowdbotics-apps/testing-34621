@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [camera]()
 - [react-native-user-profile](modules/user-profile)
 - [react-native-splash](modules/splash)
+- [react-native-login](modules/login)
 
 # Getting started: Frontend
 
